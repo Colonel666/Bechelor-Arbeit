@@ -1,6 +1,0 @@
-a:above
-b:below
-x:delete
-
-.tab : all available methods
-shift-tab : 
